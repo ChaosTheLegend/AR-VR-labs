@@ -3,4 +3,6 @@
 12: Vr setup
 13: Vr interaction
 14: Vr Teleport movement
+В этой сцене телепортироваться можно на зоны с цветами
+
 15: Vr Continuous movement
