@@ -1,0 +1,94 @@
+{
+    "name": "PCInputActions",
+    "maps": [
+        {
+            "name": "Player",
+            "id": "5867132e-e6d3-4a52-a8d0-843723b2cfa5",
+            "actions": [
+                {
+                    "name": "Drum1",
+                    "type": "PassThrough",
+                    "id": "6f069e89-eebe-48f2-b4b1-e42db95a7115",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "Press",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Drum2",
+                    "type": "Button",
+                    "id": "fc76ab3b-9b3f-49da-adce-915ba968d095",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Drum3",
+                    "type": "Button",
+                    "id": "e2a9102b-8383-4bc4-8538-be505d269296",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Drum4",
+                    "type": "Button",
+                    "id": "4dd7295c-4eef-4319-9414-64d50f950080",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "a14fabfe-5e7c-4510-8432-c7a3472a8a88",
+                    "path": "<Keyboard>/1",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Drum1",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "d5354b3f-85f4-42d3-a6fe-98dbd241be68",
+                    "path": "<Keyboard>/2",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Drum2",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "fe1ccda0-8a9a-4f62-959a-bce3cd52ec1d",
+                    "path": "<Keyboard>/3",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Drum3",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "eeae3fcf-c3a6-419b-9e3f-c5d21126cea5",
+                    "path": "<Keyboard>/4",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Drum4",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
